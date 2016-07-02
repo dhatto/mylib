@@ -6,6 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/mylib.svg?style=flat)](http://cocoapods.org/pods/mylib)
 
 ## Example
+よく来たな！！
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
